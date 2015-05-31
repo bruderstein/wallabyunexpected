@@ -1,0 +1,10 @@
+{
+  "name": "wallaby-unexpected-sample",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jsdom": "^3.1.2",
+    "unexpected": "^7.5.0",
+    "unexpected-dom": "^0.11.2",
+    "wallabify": "0.0.6"
+  }
+}
